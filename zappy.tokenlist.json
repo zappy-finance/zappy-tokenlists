@@ -10,6 +10,14 @@
   "tokens": [
     {
       "chainId": 40,
+      "address": "0x9e6B8817F6f2616C26C66A444E438e2698ff9689",
+      "decimals": 18,
+      "name": "Zappy",
+      "symbol": "ZAP",
+      "logoURI": "https://raw.githubusercontent.com/zappy-finance/zappy-tokenlists/main/logos/0x9e6B8817F6f2616C26C66A444E438e2698ff9689/logo.png"
+    },
+    {
+      "chainId": 40,
       "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
       "decimals": 18,
       "name": "Wrapped Telos",
