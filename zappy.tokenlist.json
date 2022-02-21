@@ -95,6 +95,14 @@
       "name": "Sushi",
       "symbol": "SUSHI",
       "logoURI": "https://raw.githubusercontent.com/zappy-finance/zappy-tokenlists/main/logos/0x922D641a426DcFFaeF11680e5358F34d97d112E1/logo.png"
+    }, 
+    {
+      "chainId": 40,
+      "address": "0x3E51e37350356B2D3ad84bD8146e48ac63E371a8",
+      "decimals": 18,
+      "name": "Baby Zap",
+      "symbol": "BABYZAP",
+      "logoURI": "https://raw.githubusercontent.com/zappy-finance/zappy-tokenlists/main/logos/0x3E51e37350356B2D3ad84bD8146e48ac63E371a8/logo.png"
     }
   ]
 }
