@@ -111,6 +111,14 @@
       "name": "Ploutus",
       "symbol": "PLOU",
       "logoURI": "https://raw.githubusercontent.com/zappy-finance/zappy-tokenlists/main/logos/0x8b377ACEBccF930Fec65E9ccB693bDB1Be3Fd3c0/logo.png"
+    },
+    {
+      "chainId": 40,
+      "address": "0x11FBfdf906d32753fA2A083dbd4Fb25C1094C6c4",
+      "decimals": 18,
+      "name": "Apish",
+      "symbol": "APISH",
+      "logoURI": "https://raw.githubusercontent.com/zappy-finance/zappy-tokenlists/main/logos/0x11FBfdf906d32753fA2A083dbd4Fb25C1094C6c4/logo.png"
     }
   ]
 }
