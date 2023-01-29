@@ -98,27 +98,19 @@
     },
     {
       "chainId": 40,
-      "address": "0x8b377ACEBccF930Fec65E9ccB693bDB1Be3Fd3c0",
-      "decimals": 18,
-      "name": "Ploutus",
-      "symbol": "PLOU",
-      "logoURI": "https://raw.githubusercontent.com/zappy-finance/zappy-tokenlists/main/logos/0x8b377ACEBccF930Fec65E9ccB693bDB1Be3Fd3c0/logo.png"
-    },
-    {
-      "chainId": 40,
-      "address": "0x11FBfdf906d32753fA2A083dbd4Fb25C1094C6c4",
-      "decimals": 9,
-      "name": "Apish",
-      "symbol": "APISH",
-      "logoURI": "https://raw.githubusercontent.com/zappy-finance/zappy-tokenlists/main/logos/0x11FBfdf906d32753fA2A083dbd4Fb25C1094C6c4/logo.png"
-    },
-    {
-      "chainId": 40,
       "address": "0x4f3Aff3A747fCADe12598081e80c6605A8be192F",
       "decimals": 18,
       "name": "Gami",
       "symbol": "GAMI",
       "logoURI": "https://raw.githubusercontent.com/zappy-finance/zappy-tokenlists/main/logos/0x4f3Aff3A747fCADe12598081e80c6605A8be192F/logo.png"
+    },
+    {
+      "chainId": 40,
+      "address": "0xE56c325a68b489812081E8A7b60b4017fd2AD280",
+      "decimals": 4,
+      "name": "Positron",
+      "symbol": "PE",
+      "logoURI": "https://raw.githubusercontent.com/zappy-finance/zappy-tokenlists/main/logos/0xE56c325a68b489812081E8A7b60b4017fd2AD280/logo.png"
     }
   ]
 }
